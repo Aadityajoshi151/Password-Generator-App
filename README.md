@@ -10,4 +10,4 @@ Simple app to generate passwords randomly. The length of the password, uppercase
 [Watch Demo Video Here](https://www.youtube.com/watch?v=Yp74bKmdojU)
 
 ## Your Feedback
-Please use the password generator app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible. If you like this project please 🌟 this repository.
+Please use the password generator app and if you come across any bug, if you have any feature suggestion, please open an issue in this repository and I will try to resolve it as soon as possible.
